@@ -1,0 +1,200 @@
+body{
+    background-color: white;
+    color: #40514e;
+    text-align: center;
+    margin: 0px 0px ;
+    font-family: 'Merriweather', serif;
+    font-size: 150%;
+    
+}
+h1{
+    color:#66bfbf;
+    font-family: 'Sacramento', sans-serif;
+    margin: top 10px;
+    font-size: 5.26rem;
+    
+}
+h2{
+    color: #66bfbf;
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding:bottom- 10px;
+}
+h3{
+    color: #11999e; 
+    font-family: 'Merriweather', serif;
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative; 
+    padding-top: 190px;
+    
+   
+}
+.middle-container{
+  margin: 100px 0px;
+
+}
+a{
+    color: #11999e;
+    font-family: 'Merriweather', serif;
+    margin:10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #eaf6f6;
+}
+.bottom-container{
+   
+    background-color: #66bfbf;
+    position: relative;
+    top: 10px;
+    padding: 50px;
+    margin-top:20px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    size: 100px;
+    position: absolute;
+    left: 10px;
+    top:20px;
+}
+.top-cloud{
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
+.image-container{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: relative;
+    top: 20px;
+    margin: 40px;
+}
+p{
+    line-height: 2;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+    
+hr{
+    border:dotted  #bef0f0;
+    border-bottom: none;
+    width: 10%;
+    margin:100px auto 100px auto;
+}
+.p-bottom{
+    margin-bottom: 0px;
+    color:#eaf6f6 ;
+    size:0.10rem;
+    
+}
+.code-img{
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+}
+.chilli-img{
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+    
+
+}
+
+/* .skill-row-description{
+    clear: left;
+}
+
+.skill-row-description1{
+    clear: right;
+} */
+
+.intro{
+    width: 30%;
+    margin:auto;
+}
+.contact-message{
+    width:50%;
+    margin:40px auto 60px;
+}
+
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #1199a);
+    background-image: -moz-linear-gradient(top, #11CDD4, #1199a);
+    background-image: -ms-linear-gradient(top, #11CDD4, #1199a);
+    background-image: -o-linear-gradient(top, #11CDD4, #1199a);
+    background-image: linear-gradient(to bottom, #11CDD4, #1199a);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  .front{
+    
+    background-color: #373938;
+    font-family: 'Sacramento', sans-serif;
+    position: relative; 
+    padding: 40px;
+    margin: 0px;
+
+  }
+  .chicken1{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+  }
+  .chicken2{
+    position: absolute;
+    left: 20px;
+    top:20px;
+  }
+  .top-container1{
+    background-color: #033a09;
+    position: relative; 
+    padding-top: 190px;
+  }
+
+  
+    .color{
+    
+        
+    }
+    .pay-now{
+        margin: opx auto 30px;
+    }
+    .click{
+        background-color: rgb(109, 244, 226);
+    }
+    .menu-1{
+        background-color: rgb(122, 116, 2);
+        text-align: center;
+        margin-top: 0%;
+        position: absolute
+        font-size: o.25rem;
+        
+    }
